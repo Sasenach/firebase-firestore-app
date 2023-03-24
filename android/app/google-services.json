@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592698331586",
+    "project_id": "memoji-46df6",
+    "storage_bucket": "memoji-46df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592698331586:android:4ba40266964021ca2d065b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592698331586-66ojuju4sv5joltf3u08uk9vl3jf1o23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBczOw4WEzDhXvh1gkiCU0Hf2s9FfE2Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592698331586-66ojuju4sv5joltf3u08uk9vl3jf1o23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
